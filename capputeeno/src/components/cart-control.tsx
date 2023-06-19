@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { CartIcon } from "./icons/cart-icon";
 
 const CartCount = styled.span`
-    widtd: 17px;
+    width: 17px;
     height: 17px;
     border-radius: 100%;
     padding: 0 5px;
